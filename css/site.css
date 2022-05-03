@@ -6,6 +6,18 @@ body {
 	text-align: center;
 	color: red;
 	font-family: 'font-family: 'Lobster', cursiva;
+}
+
+li {
+	float: left;
+  }
+  
+  a {
+	display: block;
+	padding: 8px;
+	background-color: #c71010;
+  }
+
 	
 
 	
