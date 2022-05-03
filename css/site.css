@@ -9,17 +9,11 @@ body {
 }
 
 li {
-	float: left;
+	float: Center;
 	display: block;
 	padding: 8px;
-	background-color: #c71010;
-  }
-  
-  a {
-	display: block;
-	padding: 8px;
-	background-color: #c71010;
-  }
+	background-color: #070101;
+ 
 
 	
 
