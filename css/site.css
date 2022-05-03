@@ -10,6 +10,9 @@ body {
 
 li {
 	float: left;
+	display: block;
+	padding: 8px;
+	background-color: #c71010;
   }
   
   a {
