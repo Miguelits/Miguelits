@@ -4,7 +4,7 @@ body {
 	position: relative; 
 	height: 100%;
 	/*text-align: center;*/
-	color: red;
+	color: rgb(255, 255, 255);
 	font-family: 'font-family: 'Lobster', cursiva;
 }
 
@@ -32,15 +32,17 @@ li {
   
   li:last-child {
 	border-right: none;
+	ul {
+		position: fixed;
+		top: 0;
+		width: 100%;
+		position: fixed;
+		top: 0;
+		width: 100%;
   }	
 
 
 
-  ul {
-	position: fixed;
-	top: 0;
-	width: 100%;
-  }
 
 
   
