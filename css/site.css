@@ -1,5 +1,5 @@
 body {
-	background: linear-gradient(#210203, #c9080b);
+	background: linear-gradient(#f0070e, #130101);
 	font-size: 18px;
 	position: relative; 
 	height: 100%;
@@ -12,7 +12,7 @@ li {
 	float: Center;
 	display: block;
 	padding: 45px;
-	background-color: #af0d0d;
+	background-color: #070101;
 
 }
  
@@ -26,4 +26,21 @@ li {
 	
 
 	
-	
+  li {
+	border-right: 1px solid rgb(238, 6, 6);
+  }
+  
+  li:last-child {
+	border-right: none;
+  }	
+
+
+
+  ul {
+	position: fixed;
+	top: 0;
+	width: 100%;
+  }
+
+
+  
