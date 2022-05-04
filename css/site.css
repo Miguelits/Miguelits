@@ -26,20 +26,6 @@ li {
 	
 
 	
-  li {
-	border-right: 1px solid rgb(238, 6, 6);
-  }
-  
-  li:last-child {
-	border-right: none;
-	ul {
-		position: fixed;
-		top: 0;
-		width: 100%;
-		position: fixed;
-		top: 0;
-		width: 100%;
-  }	
 
 
 
