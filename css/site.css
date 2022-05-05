@@ -12,12 +12,12 @@ li {
 	float: Center;
 	display: block;
 	padding: 45px;
-	background-color: #070101;
+	background-color: #ce1c98;
 
 }
  
 li {
-	border-right: 20px solid rgb(0, 0, 0);
+	border-right: 20px solid rgb(223, 20, 20);
   }
   
   li:last-child {
