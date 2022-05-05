@@ -24,6 +24,12 @@ li {
 	border-right: none;
   }
   
+  body {
+	  background-image: url(../img/tumblr_ni0udv7VdU1to3m7wo1_500.gif);
+	  background-size: cover;
+	  background-position: center;
+	}
+
 
 	
 
