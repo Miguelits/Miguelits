@@ -17,13 +17,13 @@ li {
 }
  
 li {
-	border-right: 1px solid rgb(0, 0, 0);
+	border-right: 20px solid rgb(0, 0, 0);
   }
   
   li:last-child {
 	border-right: none;
   }
-  
+   
   body {
 	  background-image: url(../img/tumblr_ni0udv7VdU1to3m7wo1_500.gif);
 	  background-size: cover;
