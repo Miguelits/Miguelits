@@ -12,23 +12,23 @@ li {
 	float: Center;
 	display: block;
 	padding: 45px;
-	background-color: #ce1c98;
+	background-color: #000000;
 
 }
  
 li {
-	border-right: 20px solid rgb(223, 20, 20);
+	border-right: 20px solid rgb(0, 0, 0);
   }
   
   li:last-child {
 	border-right: none;
   }
    
-  body {
-	  background-image: url(../img/tumblr_ni0udv7VdU1to3m7wo1_500.gif);
-	  background-size: cover;
-	  background-position: center;
-	}
+ body {
+color: red;
+padding: 25px;
+display: inline-block;
+ }
 
 
 	
