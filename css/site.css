@@ -1,15 +1,11 @@
 body {
-	background: linear-gradient(#f0070e, #130101);
+	background: linear-gradient(#360f1100, #13010100);
 	font-size: 18px;
 	position: relative; 
 	height: 100%;
 	/*text-align: center;*/
 	color: rgb(255, 255, 255);
 	font-family: 'font-family: 'Lobster', cursiva;
-	html {
-		background: url(img_man.jpg) no-repeat center fixed;
-		background-size: cover;
-	  }
 }
 
 li {
@@ -29,10 +25,6 @@ li {
   }
   
 
-  html {
-	background: url(img_man.jpg) no-repeat center fixed;
-	background-size: cover;
-  }
 	
 
 
