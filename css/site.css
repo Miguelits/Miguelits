@@ -23,7 +23,11 @@ li {
   li:last-child {
 	border-right: none;
   }
-	
+  #example1 {
+	background-image: url(https://33.media.tumblr.com/a087fbda5b369838058d8b50da183e92/tumblr_ni0udv7VdU1to3m7wo1_500.gif);
+	background-position: right bottom, left top;
+	background-repeat: no-repeat, repeat;
+  }
 
 	
 
